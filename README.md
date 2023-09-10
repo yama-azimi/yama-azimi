@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Yama Azimi
 ====================================
 
-Aspiring Web 3.0 Developer
+Web 3.0 Developer and Aspiring Smart Contract Security Researcher.
 --------------------------
 
 I’ve been learning to code for almost a year, after switching careers. I started with basic front-end development, but really found my passion for Web 3.0 development.
