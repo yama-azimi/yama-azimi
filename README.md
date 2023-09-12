@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammad Yama Azimi
 Web 3.0 Developer and Aspiring Smart Contract Security Researcher.
 --------------------------
 
-I’ve been learning to code for almost a year, after switching careers. I started with basic front-end development, but really found my passion for Web 3.0 development.
+I’ve been learning to code for almost a year, after switching careers. I started with basic front-end development and blockchain, but really found my passion for Web 3.0 development and Smart Contract Security Research.
 
 * 🌍  I'm based in Kabul, Afghanistan.
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/yama-azimi)
