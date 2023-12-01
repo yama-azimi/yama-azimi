@@ -14,7 +14,7 @@ I’ve been learning to code for almost a year, after switching careers. I start
 * ⚡   I'm secretly a US-based Certified Management Accountant (CMA), but don't tell anyone.
 
 <a href="https://www.twitter.com/@myama_azimi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@myama_azimi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/@m_yamaazimi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
