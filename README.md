@@ -8,7 +8,7 @@ I’ve been learning to code for almost a year, after switching careers. I start
 
 * 🌍  I'm based in Kabul, Afghanistan.
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/yama-azimi)
-* ✉️   You can contact me at [mazimi.yama@gmail.com](mailto:mazimi.yama@gmail.com)
+* ✉️   You can contact me at [m.yamaazimi@gmail.com](mailto:m.yamaazimi@gmail.com)
 * 🧠  I'm learning Solidity, Test Driven Development of Smart Contracts, JavaScript, and React Framework.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡   I'm secretly a US-based Certified Management Accountant (CMA), but don't tell anyone.
